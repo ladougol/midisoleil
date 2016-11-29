@@ -1,0 +1,508 @@
+{
+   "rss": {
+      "channel": {
+         "title": "",
+         "link": [
+            {
+               "_href": "http://www.cotedivoire.news/feed",
+               "_rel": "self",
+               "_type": "application/rss+xml"
+            },
+            "http://www.cotedivoire.news"
+         ],
+         "lastBuildDate": "Mon, 28 Nov 2016 22:29:01 +0000",
+         "language": "fr-FR",
+         "updatePeriod": {
+            "__text": "hourly",
+            "toString": [
+               null
+            ]
+         },
+         "updateFrequency": {
+            "__text": "1",
+            "toString": [
+               null
+            ]
+         },
+         "item": [
+            {
+               "title": "CÃ´te dâIvoire : veut Ã©liminer les violences faites aux femmes",
+               "link": [
+                  "http://www.cotedivoire.news/societe/7055-cote-divoire-veut-eliminer-les-violences-faites-aux-femmes.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/societe/7055-cote-divoire-veut-eliminer-les-violences-faites-aux-femmes.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 22:29:01 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "SOCIETE",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=7055",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>Le gouvernement ivoirien ambitionne dâÃ©liminer les violences faites aux femmes au cours des dix prochaines annÃ©es en accentuant la sensibilisation des populations sur ce phÃ©nomÃ¨ne qui connaÃ®t dÃ©jÃ  une Â«baisse significativeÂ» au niveau de lâarmÃ©e, a annoncÃ©, vendredi, Ã  Abidjan, la ministre de la promotion de la femme, de la famille et de la protection [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/societe/7055-cote-divoire-veut-eliminer-les-violences-faites-aux-femmes.html\">CÃ´te dâIvoire : veut Ã©liminer les violences faites aux femmes</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/societe/7055-cote-divoire-veut-eliminer-les-violences-faites-aux-femmes.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "Burkina : 12 personnalitÃ©s honorÃ©es fin janvier Ã  Ouagadougou",
+               "link": [
+                  "http://www.cotedivoire.news/culture/7048-burkina-12-personnalites-honorees-fin-janvier-a-ouagadougou.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/culture/7048-burkina-12-personnalites-honorees-fin-janvier-a-ouagadougou.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 22:19:40 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "CULTURE",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=7048",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>La cinquiÃ¨me Ã©dition de la manifestation culturelle dÃ©nommÃ©e les 12 PersonnalitÃ©s culturelles de lâannÃ©e (12 PCA) aura lieu le 27 janvier prochain Ã  Ouagadougou, ont annoncÃ© les organisateurs lors d&#8217;une confÃ©rence de presse donnÃ©e dans la capitale burkinabÃ©. La culture au burkina n&#8217;est plus Ã  dÃ©fendre, selon le promoteur des 12 PCA, HervÃ© Honla, cette [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/culture/7048-burkina-12-personnalites-honorees-fin-janvier-a-ouagadougou.html\">Burkina : 12 personnalitÃ©s honorÃ©es fin janvier Ã  Ouagadougou</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/culture/7048-burkina-12-personnalites-honorees-fin-janvier-a-ouagadougou.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "Burkina Faso : 22 milliards de FCFA pour la sÃ©curitÃ© alimentaire dans l’Est",
+               "link": [
+                  "http://www.cotedivoire.news/actualite/7043-burkina-faso-22-milliards-de-fcfa-securite-alimentaire-lest.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/actualite/7043-burkina-faso-22-milliards-de-fcfa-securite-alimentaire-lest.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 22:13:51 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "ACTUALITE",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=7043",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>LâAgence franÃ§aise de dÃ©veloppement (AFD) mettra Ã  la disposition du Burkina, un montant dâenviron 22 milliards de F CFA pour financer le projet de sÃ©curitÃ© alimentaire dans lâEst du Burkina Faso (PSAE), a appris APA, lundi, auprÃ¨s du MinistÃ¨re de lâÃ©conomie et des finances. Dâune durÃ©e de cinq ans, le PASE vise Ã  amÃ©liorer la [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/actualite/7043-burkina-faso-22-milliards-de-fcfa-securite-alimentaire-lest.html\">Burkina Faso : 22 milliards de FCFA pour la sÃ©curitÃ© alimentaire dans l&rsquo;Est</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/actualite/7043-burkina-faso-22-milliards-de-fcfa-securite-alimentaire-lest.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "Zimbabwe :  nouveaux billets de banque",
+               "link": [
+                  "http://www.cotedivoire.news/afrique/7038-zimbabwe-nouveaux-billets-de-banque.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/afrique/7038-zimbabwe-nouveaux-billets-de-banque.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 22:08:02 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "Afrique",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=7038",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>La banque centrale du Zimbabwe a introduit lundi une nouvelle monnaie dans le cadre de mesures visant Ã  pallier les graves pÃ©nuries dâargent notÃ©es dans le pays depuis fÃ©vrier. La Banque de rÃ©serve du Zimbabwe (RBZ) a dÃ©voilÃ© de nouveaux billets de banque obligataires de deux dollars, une monnaie de substitution controversÃ©e introduite pour soulager [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/afrique/7038-zimbabwe-nouveaux-billets-de-banque.html\">Zimbabwe :  nouveaux billets de banque</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/afrique/7038-zimbabwe-nouveaux-billets-de-banque.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "Insertion sociale au Burkina Faso : bientÃ´t 13.500 emplois directs pour la jeunesse",
+               "link": [
+                  "http://www.cotedivoire.news/burkina/6950-insertion-sociale-burkina-faso-13-500-emplois-directs-jeunesse.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/burkina/6950-insertion-sociale-burkina-faso-13-500-emplois-directs-jeunesse.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 19:53:14 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "Burkina",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=6950",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>Lâinsertion sociale des jeunes au Burkina Faso, un dÃ©fi majeur pour le gouvernement, commence Ã  se consacrer. GrÃ¢ce Ã  un programme dâurgence mis en place par le gouvernement burkinabÃ©, environ 13,500 emplois seront gÃ©nÃ©rÃ©s pour la jeunesse. Le Premier ministre burkinabÃ¨, Paul Kaba ThiÃ©ba, a lancÃ©, samedi Ã  Ouagadougou, le Programme dâinsertion socio-professionnelle des jeunes [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/burkina/6950-insertion-sociale-burkina-faso-13-500-emplois-directs-jeunesse.html\">Insertion sociale au Burkina Faso : bientÃ´t 13.500 emplois directs pour la jeunesse</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/burkina/6950-insertion-sociale-burkina-faso-13-500-emplois-directs-jeunesse.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "Les meilleurs jouets de NoÃ«l pour lâannÃ©e 2016",
+               "link": [
+                  "http://www.cotedivoire.news/actualite/6535-meilleurs-jouets-noel-pour-annee-2016.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/actualite/6535-meilleurs-jouets-noel-pour-annee-2016.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 19:41:59 +0000",
+               "creator": {
+                  "__cdata": "Fatou TourÃ©",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "ACTUALITE",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=6535",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>PrivilÃ¨ge aux jouets connectÃ©s, la nouvelle gÃ©nÃ©ration vit Ã  l&#8217;heure des nouvelles technologies. Les meilleurs jouets en 2016 restent les jouets connectÃ©s et le moins que l&#8217;on puisse dire, c&#8217;est que les enfants vont Ãªtre gÃ¢tÃ©s pour NoÃ«l avec tous ces jouets high-Tech ! Les concepteurs nâont pas manquÃ© dâimagination pour Ã©merveiller de leur crÃ©ation. [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/actualite/6535-meilleurs-jouets-noel-pour-annee-2016.html\">Les meilleurs jouets de NoÃ«l pour lâannÃ©e 2016</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/actualite/6535-meilleurs-jouets-noel-pour-annee-2016.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "Election Ã  la FECAFOOT Cameroun: Issa Hayatou a-t-il influencÃ© les rÃ©sultats ?",
+               "link": [
+                  "http://www.cotedivoire.news/sport/6938-election-fecafoot-cameroun-issa-hayatou-influence-resultats.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/sport/6938-election-fecafoot-cameroun-issa-hayatou-influence-resultats.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 19:38:31 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "SPORT",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=6938",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>LâÃ©lection du nouveau bureau de la Fecafoot, la fÃ©dÃ©ration camerounaise de football dÃ©fraie toujours la chronique avec son lot de rÃ©vÃ©lations. Aux derniÃ¨res nouvelles, Issa Hayatou aurait, le prÃ©sident de CAF, aurait une mainmise sur le scrutin. AccusÃ© au Cameroun par ses dÃ©tracteurs dâavoir influencÃ© les rÃ©sultats, quâen est-il rÃ©ellement ? Le prÃ©sident de la [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/sport/6938-election-fecafoot-cameroun-issa-hayatou-influence-resultats.html\">Election Ã  la FECAFOOT Cameroun: Issa Hayatou a-t-il influencÃ© les rÃ©sultats ?</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/sport/6938-election-fecafoot-cameroun-issa-hayatou-influence-resultats.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "CÃ´te dâIvoire : nouveau budget 2017 de 6501 milliards FCFA",
+               "link": [
+                  "http://www.cotedivoire.news/actualite/7029-cote-divoire-nouveau-budget-2017-de-6501-milliards-fcfa.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/actualite/7029-cote-divoire-nouveau-budget-2017-de-6501-milliards-fcfa.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 19:32:48 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "ACTUALITE",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=7029",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>Les dÃ©putÃ©s membres de la Commission des affaires Ã©conomiques et financiÃ¨res de lâAssemblÃ©e nationale ivoirienne ont adoptÃ©, lundi, Ã  lâunanimitÃ© le projet de budget 2017 qui s&#8217;Ã©quilibre en ressources et en charges Ã  plus de 6501 milliards de FCFA, en hausse de 5,4% par rapport au budget rÃ©visÃ© 2016, a constatÃ© APA sur place dans [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/actualite/7029-cote-divoire-nouveau-budget-2017-de-6501-milliards-fcfa.html\">CÃ´te dâIvoire : nouveau budget 2017 de 6501 milliards FCFA</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/actualite/7029-cote-divoire-nouveau-budget-2017-de-6501-milliards-fcfa.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "Cameroun : 400 000 crÃ©ation d’emplois prÃ©vus en 2017",
+               "link": [
+                  "http://www.cotedivoire.news/actualite/7025-cameroun-400-000-creation-demplois-prevus-en-2017.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/actualite/7025-cameroun-400-000-creation-demplois-prevus-en-2017.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 19:26:57 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "ACTUALITE",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=7025",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>Le gouvernement camerounais prÃ©voit de crÃ©er 400 000 nouveaux emplois dÃ©cents au cours de lâexercice 2017, conformÃ©ment au programme Ã©conomique, financier, social et culturel dont lâobjectif est dâinflÃ©chir la courbe du sous-emploi qui touche plus de 78 pour cent de la population active. Un nouveau souffle dans la crÃ©ation d&#8217;emploi au Cameroun. Pour y parvenir, [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/actualite/7025-cameroun-400-000-creation-demplois-prevus-en-2017.html\">Cameroun : 400 000 crÃ©ation d&#8217;emplois prÃ©vus en 2017</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/actualite/7025-cameroun-400-000-creation-demplois-prevus-en-2017.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            },
+            {
+               "title": "TournÃ©e africaine de Mohammed VI : 22 accords signÃ©s entre le Maroc et le Madagascar",
+               "link": [
+                  "http://www.cotedivoire.news/afrique/6952-tournee-africaine-mohammed-vi-22-accords-signes-maroc-madagascar.html"
+               ],
+               "comments": [
+                  "http://www.cotedivoire.news/afrique/6952-tournee-africaine-mohammed-vi-22-accords-signes-maroc-madagascar.html#respond",
+                  {
+                     "__text": "0",
+                     "toString": [
+                        null
+                     ]
+                  }
+               ],
+               "pubDate": "Mon, 28 Nov 2016 19:12:27 +0000",
+               "creator": {
+                  "__cdata": "Amani Georges",
+                  "toString": [
+                     null
+                  ]
+               },
+               "category": {
+                  "__cdata": "Afrique",
+                  "toString": [
+                     null
+                  ]
+               },
+               "guid": {
+                  "_isPermaLink": "false",
+                  "__text": "http://www.cotedivoire.news/?p=6952",
+                  "toString": [
+                     null
+                  ]
+               },
+               "description": {
+                  "__cdata": "<p>La tournÃ©e africaine du roi Mohamed VI, portait essentiellement sur le renforcement des liens Ã©conomiques existant entre le Maroc et ses partenaires du continent noir. Avec le Madagascar, le Royaume chÃ©rifien vient de resserrer les liens avec la signature de 22 accords de partenariat sur le plan Ã©conomique. La visite dâEtat du roi Mohamed VI [&#8230;]</p>\n<p>Cet article <a rel=\"nofollow\" href=\"http://www.cotedivoire.news/afrique/6952-tournee-africaine-mohammed-vi-22-accords-signes-maroc-madagascar.html\">TournÃ©e africaine de Mohammed VI : 22 accords signÃ©s entre le Maroc et le Madagascar</a> est apparu en premier sur <a rel=\"nofollow\" href=\"http://www.cotedivoire.news\"></a>.</p>\n",
+                  "toString": [
+                     null
+                  ]
+               },
+               "commentRss": {
+                  "__text": "http://www.cotedivoire.news/afrique/6952-tournee-africaine-mohammed-vi-22-accords-signes-maroc-madagascar.html/feed",
+                  "toString": [
+                     null
+                  ]
+               }
+            }
+         ]
+      },
+      "_xmlns:content": "http://purl.org/rss/1.0/modules/content/",
+      "_xmlns:wfw": "http://wellformedweb.org/CommentAPI/",
+      "_xmlns:dc": "http://purl.org/dc/elements/1.1/",
+      "_xmlns:atom": "http://www.w3.org/2005/Atom",
+      "_xmlns:sy": "http://purl.org/rss/1.0/modules/syndication/",
+      "_xmlns:slash": "http://purl.org/rss/1.0/modules/slash/",
+      "_version": "2.0"
+   }
+}
